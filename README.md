@@ -176,7 +176,7 @@ Users can access all previously placed orders from their account.
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/ANUSHKA49282/QuickBite.git
+git clone https://github.com/Bhagya1404/QuickBite.git
 ```
 
 ## Backend Setup
@@ -227,9 +227,9 @@ GEMINI_API_KEY=your_google_gemini_api_key
 
 # Author
 
-**Anushka S**
+**BHAGYA SREE**
 
-- GitHub: https://github.com/ANUSHKA49282
+- GitHub: https://github.com/Bhagya1404
 
 ---
 
